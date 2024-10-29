@@ -1,2 +1,3 @@
-# testimonial-cards
-testimonial-cards
+# Testimonial Cards
+
+![Testimonial Cards](./testimonial-cards.png)
